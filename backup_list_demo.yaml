@@ -1,0 +1,8 @@
+openssl:
+  origin: https://github.com/openssl/openssl.git
+  backup: https://github.com/HuKeping/openssl.git
+  branch:
+    - OpenSSL_1_1_1-stable
+  tag:
+    - OpenSSL_1_1_1e
+    - OpenSSL_1_1_1g
